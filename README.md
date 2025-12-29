@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/06/what-is-google-play-hero.jpg" alt="drawing" width="500"/>
+<img src="google.avif" alt="drawing" width="500"/>
 
 </div>
 
@@ -50,6 +50,14 @@ Interactive Tableau dashboard analyzing 10,300+ cleaned Google Play Store apps a
   - Reviews Performance Score correlation shows higher review counts generally correlate with better ratings, emphasizing importance of user engagement strategies.
   - Free apps constitute overwhelming majority demonstrating freemium as dominant business model requiring focus on in-app monetization and user retention.
 
+---
+
+<div class='tableauPlaceholder' id='viz1767005132784' style='position: relative'><noscript><a href='#'><img alt='Viz ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GooglePlayStoreMarketIntelligenceDashboard&#47;Viz&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GooglePlayStoreMarketIntelligenceDashboard&#47;Viz' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GooglePlayStoreMarketIntelligenceDashboard&#47;Viz&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+
+
+---
+
+
 ## How to Use
 - Access live dashboard:  
   - Visit Tableau Public: [Google Play Store Market Intelligence Dashboard](https://public.tableau.com/app/profile/pratyushpuri/viz/GooglePlayStoreMarketIntelligenceDashboard/Viz)
@@ -84,6 +92,8 @@ Interactive Tableau dashboard analyzing 10,300+ cleaned Google Play Store apps a
   - Monitor Reviews Performance Score to identify engagement opportunities and quality benchmarks
   - Cross-reference multiple charts to validate insights and identify actionable patterns
   - Apply Top N parameter to focus on most relevant categories for your analysis scope
+
+
 
 ## Author & Contact
 - Name: `Pratyush Puri`  
